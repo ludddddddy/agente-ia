@@ -1,0 +1,7 @@
+langchain
+langchain-community
+transformers
+torch
+huggingface_hub
+accelerate
+sympy
